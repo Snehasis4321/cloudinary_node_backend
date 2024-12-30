@@ -1,0 +1,19 @@
+{
+  "name": "cloudinary_node_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "busboy": "^1.6.0",
+    "cloudinary": "^2.5.1",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
